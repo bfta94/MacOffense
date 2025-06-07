@@ -12,10 +12,10 @@ MacOffense is an advanced reconnaissance toolkit designed specifically for macOS
 
 ## Features
 
-- Over 40 advanced reconnaissance functions including users, services, kernel modules, network info, installed apps, SUID files, TCC profiles, FileVault status, Homebrew packages, cron jobs, firewall status, and more.
-- Real-time CLI output showing scan progress and findings.
-- Export reports in JSON, TXT, or CSV formats.
-- Native macOS compatibility with no external dependencies.
+ Over 40 advanced reconnaissance functions including users, services, kernel modules, network info, installed apps, SUID files, TCC profiles, FileVault status, Homebrew packages, cron jobs, firewall status, and more.
+ Real-time CLI output showing scan progress and findings.
+ Export reports in JSON, TXT, or CSV formats.
+ Native macOS compatibility with no external dependencies.
 
 ## Installation
 
